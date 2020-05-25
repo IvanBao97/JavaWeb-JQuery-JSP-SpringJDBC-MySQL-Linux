@@ -1,1 +1,1 @@
-# JavaWeb-SpringMVC-JQuery-JSP-SpringJDBC-MySQL-Linux
+# JavaWeb-JQuery-JSP-SpringJDBC-MySQL-Linux
